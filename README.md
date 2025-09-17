@@ -37,6 +37,3 @@ The 2N2222 transistor acts as a switch and controls the fan speed depending upon
 3. Wire components as per the circuit diagram.
 4. Power the system, monitor readings on LCD.
 
-
-
-MIT License
