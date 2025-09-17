@@ -29,7 +29,7 @@ The system displays the current temperature and fan speed on a 16x2 LCD.
 
 
 
-https://github.com/Ekansh-Bhushan/Temperature-Fan-Control/blob/main/working%20Image.png?raw=true
+<img width="692" height="377" alt="Image" src="https://github.com/user-attachments/assets/e85cd3f6-3255-44a1-ae8c-a1e9a047a1c8" />
 
 ---
 
