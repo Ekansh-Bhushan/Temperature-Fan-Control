@@ -26,7 +26,10 @@ The system displays the current temperature and fan speed on a 16x2 LCD.
 4. Power the system, monitor readings on LCD.
 
 ## 📸 Circuit Diagram
-(Include your circuit diagram image here)
+
+
+
+https://github.com/Ekansh-Bhushan/Temperature-Fan-Control/blob/main/working%20Image.png?raw=true
 
 ---
 
